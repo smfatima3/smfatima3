@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smfatima3
-- 👀 I’m interested in Cosmology, Machine learning, and Harry Potter
+- 👀 I’m interested in Machine learning, Cosmology, and Harry Potter
 - 🌱 I’m currently learning Quantum Machine Learning 
 - 💞️ I’m looking to collaborate on Distributed Infrastructure and Mechanistic Interpretability
 - 📫 How to reach me, my LinkedIn: https://www.linkedin.com/in/smfatima/
